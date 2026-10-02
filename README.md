@@ -13,4 +13,3 @@ I run a media company with **200M+ views** and work full time in **IT**. I build
 | [**YouTube Transcript Copy**](https://github.com/visavv/youtube-transcript-copy) | Video transcripts copied in one click |
 | **Treeni** <sub>private</sub> | Workout tracking with automatic progression |
 | **Vidor** <sub>private</sub> | Local AI clip discovery for streams and videos |
-| **B0aty Clip-Finder** <sub>private</sub> | Highlight discovery for B0aty's streams |
