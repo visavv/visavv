@@ -22,13 +22,9 @@ I designed and built a Finnish article prototype to demonstrate the idea: **more
 
 ### More projects
 
-| Project | What it does |
-| :--- | :--- |
-| [**hive**](https://github.com/visavv/hive) | AI coding agents working together |
-| [**Claude Usage Band**](https://github.com/visavv/claude-usage-band) | Claude and Codex quota, always on screen in Claude Code |
-| [**VISAMEDIA**](https://github.com/visavv/visamedia-showcase) | Livestream highlights, ready for DaVinci Resolve |
-| [**Kiinteistöpito**](https://github.com/visavv/kiinteistopito-showcase) | Home maintenance and searchable documents |
-| [**Resolve Time Tracker**](https://github.com/visavv/resolve-time-tracker) | Time tracking inside DaVinci Resolve |
-| [**YouTube Transcript Copy**](https://github.com/visavv/youtube-transcript-copy) | Video transcripts copied in one click |
-| **Treeni** <sub>private</sub> | Workout tracking with automatic progression |
-| **Vidor** <sub>private</sub> | Local AI clip discovery for streams and videos |
+- 🐝 **[hive](https://github.com/visavv/hive)** — AI coding agents that work as a team and review each other's code.
+- 📊 **[Claude Usage Band](https://github.com/visavv/claude-usage-band)** — Claude and Codex quota, always on screen in Claude Code.
+- 🎬 **[Scouter](https://github.com/visavv/visamedia-showcase)** — Finds highlights in long livestreams and opens them in DaVinci Resolve.
+- 🏠 **[Kiinteistöpito](https://github.com/visavv/kiinteistopito-showcase)** — A searchable maintenance logbook for your home, stored on your phone.
+- ⏱️ **[Resolve Time Tracker](https://github.com/visavv/resolve-time-tracker)** — Time tracking and timesheets inside DaVinci Resolve.
+- 📋 **[YouTube Transcript Copy](https://github.com/visavv/youtube-transcript-copy)** — Copy any YouTube transcript in one click, or send it to an AI for a summary.
