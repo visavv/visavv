@@ -25,6 +25,7 @@ I designed and built a Finnish article prototype to demonstrate the idea: **more
 | Project | What it does |
 | :--- | :--- |
 | [**hive**](https://github.com/visavv/hive) | AI coding agents working together |
+| [**Claude Usage Band**](https://github.com/visavv/claude-usage-band) | Claude and Codex quota, always on screen in Claude Code |
 | [**VISAMEDIA**](https://github.com/visavv/visamedia-showcase) | Livestream highlights, ready for DaVinci Resolve |
 | [**Kiinteistöpito**](https://github.com/visavv/kiinteistopito-showcase) | Home maintenance and searchable documents |
 | [**Resolve Time Tracker**](https://github.com/visavv/resolve-time-tracker) | Time tracking inside DaVinci Resolve |
