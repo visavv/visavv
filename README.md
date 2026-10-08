@@ -22,13 +22,11 @@ I designed and built a Finnish article prototype to demonstrate the idea: **more
 
 ### More projects
 
-| Project | What it does |
-| :--- | :--- |
-| [**hive**](https://github.com/visavv/hive) | AI coding agents working together |
-| [**Claude Usage Band**](https://github.com/visavv/claude-usage-band) | Claude and Codex quota, always on screen in Claude Code |
-| [**VISAMEDIA**](https://github.com/visavv/visamedia-showcase) | Livestream highlights, ready for DaVinci Resolve |
-| [**Kiinteistöpito**](https://github.com/visavv/kiinteistopito-showcase) | Home maintenance and searchable documents |
-| [**Resolve Time Tracker**](https://github.com/visavv/resolve-time-tracker) | Time tracking inside DaVinci Resolve |
-| [**YouTube Transcript Copy**](https://github.com/visavv/youtube-transcript-copy) | Video transcripts copied in one click |
-| **Treeni** <sub>private</sub> | Workout tracking with automatic progression |
-| **Vidor** <sub>private</sub> | Local AI clip discovery for streams and videos |
+<p>
+  <a href="https://github.com/visavv/hive"><img src="assets/project-hive.svg" width="49%" alt="hive: AI coding agents working as a team"></a>&nbsp;
+  <a href="https://github.com/visavv/claude-usage-band"><img src="assets/project-claude-usage-band.svg" width="49%" alt="Claude Usage Band: Claude and Codex quota, always on screen in Claude Code"></a>
+  <a href="https://github.com/visavv/visamedia-showcase"><img src="assets/project-visamedia.svg" width="49%" alt="VISAMEDIA: livestream highlights, ready for DaVinci Resolve"></a>&nbsp;
+  <a href="https://github.com/visavv/kiinteistopito-showcase"><img src="assets/project-kiinteistopito.svg" width="49%" alt="Kiinteistöpito: a searchable maintenance history for your home"></a>
+  <a href="https://github.com/visavv/resolve-time-tracker"><img src="assets/project-resolve-time-tracker.svg" width="49%" alt="Resolve Time Tracker: time tracking inside DaVinci Resolve"></a>&nbsp;
+  <a href="https://github.com/visavv/youtube-transcript-copy"><img src="assets/project-youtube-transcript-copy.svg" width="49%" alt="YouTube Transcript Copy: video transcripts copied in one click"></a>
+</p>
