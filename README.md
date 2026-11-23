@@ -2,7 +2,7 @@
 
 I run a media company with **200M+ views** and work full time in **IT**. I build projects for everything in between, following my curiosity about coding and AI and sharing what I make along the way.
 
-### More projects
+### Projects
 
 | Project | What it does |
 | :--- | :--- |
