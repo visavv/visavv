@@ -1,7 +1,5 @@
 # Sijoituskästi: an owned editorial channel
 
-[![Podcast to owned articles concept](../assets/sijoituskasti-showcase.svg)](https://visaforhire.com/sijoituskasti/)
-
 **My role:** concept, pitch, article adaptation and responsive HTML prototype.  
 **Status:** independently developed pitch and showcase; this is not a claim of an official commission or adoption.
 
@@ -33,4 +31,4 @@ Help readers understand the story quickly, then make it easy to move between the
 
 ## Scope of this showcase
 
-This page documents the pitch and prototype. The visual above is an explanatory illustration, not a screenshot or an analytics report. Sijoituskästi and episode participants retain their respective names, brands and original content.
+This page documents the pitch and prototype, not an analytics report. Sijoituskästi and episode participants retain their respective names, brands and original content.

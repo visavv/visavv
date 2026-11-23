@@ -1,7 +1,5 @@
 # Visa for Hire: creator portfolio
 
-[![Visa for Hire portfolio illustration](../assets/visa-for-hire-showcase.svg)](https://visaforhire.com/)
-
 **My role:** portfolio positioning, design and HTML implementation.
 
 [Visit visaforhire.com](https://visaforhire.com/)
@@ -24,4 +22,4 @@ The growth graphic in the site prototype is explicitly illustrative. It describe
 
 The [Sijoituskästi pitch](sijoituskasti.md) applies the same content-repurposing thinking to written media: turn existing podcast episodes into an owned article channel.
 
-The visual above is a custom portfolio illustration, not a current site screenshot. Figures in the live portfolio and my GitHub bio may refer to different reporting dates or scopes.
+Figures in the live portfolio and my GitHub bio may refer to different reporting dates or scopes.
